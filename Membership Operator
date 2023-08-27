@@ -1,0 +1,18 @@
+str = 'Aakarshan'
+print('a' in str)
+print('k' in str)
+print('r' in str)
+print('i' in str)
+
+print('i' not in str)
+
+print(round(11.5))
+print(round(12.5))
+print(round(654, -2))
+
+name ='Krishna'
+age = 30
+height = 1.7
+
+print(f"My name is {name}. I am {age} years old. My height is {height} meters")
+print(f"Krishna's father is {age*2} years old")
